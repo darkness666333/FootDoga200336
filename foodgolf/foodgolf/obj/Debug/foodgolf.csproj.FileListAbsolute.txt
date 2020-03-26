@@ -1,0 +1,6 @@
+C:\Users\Merci\source\repos\foodgolf\foodgolf\bin\Debug\foodgolf.exe.config
+C:\Users\Merci\source\repos\foodgolf\foodgolf\bin\Debug\foodgolf.exe
+C:\Users\Merci\source\repos\foodgolf\foodgolf\bin\Debug\foodgolf.pdb
+C:\Users\Merci\source\repos\foodgolf\foodgolf\obj\Debug\foodgolf.csprojAssemblyReference.cache
+C:\Users\Merci\source\repos\foodgolf\foodgolf\obj\Debug\foodgolf.exe
+C:\Users\Merci\source\repos\foodgolf\foodgolf\obj\Debug\foodgolf.pdb
